@@ -4,7 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+I am Kartik, a grad student working on materials science of low carbon foorprint steelmaking at [MPIE](https://www.mpie.de/2281/en).
+    This is my personal website where I post my notes about things that I enjoy doing and having conversations about. [Materials Science](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.2c00799) and its role in the fight against [climate change](https://www.un.org/en/climatechange/what-is-climate-change), [Badminton](https://youtu.be/rJoxacnxQZs?si=50DHI1ghCkBkJh_0), [graphic novels] (https://www.comic-con.org/awards/eisner-awards/) and pop-culture in general.          
+
+The webpage is under development, right now, and thus has some random things lying around. I plan to tidy it up once I have a bunch of posts ready to go. 
+
+
+<!-- [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
@@ -26,4 +32,4 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 - RSS Feed
 - In-built sitemap
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started. -->
