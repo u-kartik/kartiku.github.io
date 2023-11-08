@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am a grad student working on materials science of low carbon foorprint steelmaking at [MPIE](https://www.mpie.de/2281/en).
-    This is my personal website where I post my notes about things that I enjoy doing and having conversations about. [Materials Science](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.2c00799) and its role in the fight against [climate change](https://www.un.org/en/climatechange/what-is-climate-change), [Badminton](https://youtu.be/rJoxacnxQZs?si=50DHI1ghCkBkJh_0), [graphic novels](https://www.comic-con.org/awards/eisner-awards/) and pop-culture in general.          
+    This is my personal website where I post my notes about things that I enjoy doing and having conversations about. [Materials Science](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.2c00799) and its role in the fight against [Climate Change](https://www.un.org/en/climatechange/what-is-climate-change), [Badminton](https://youtu.be/rJoxacnxQZs?si=50DHI1ghCkBkJh_0), [Graphic Novels](https://www.reddit.com/r/graphicnovels/) and pop-culture in general.          
 
 The webpage is under development right now, and thus has some random and unrelated things lying around. I plan to tidy it up once I have a bunch of posts ready to go. 
 
